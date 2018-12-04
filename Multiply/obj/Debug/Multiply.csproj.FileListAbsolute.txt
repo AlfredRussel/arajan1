@@ -1,0 +1,7 @@
+C:\Users\jprenosi\source\repos\Multiply\Multiply\bin\Debug\Multiply.exe.config
+C:\Users\jprenosi\source\repos\Multiply\Multiply\bin\Debug\Multiply.exe
+C:\Users\jprenosi\source\repos\Multiply\Multiply\bin\Debug\Multiply.pdb
+C:\Users\jprenosi\source\repos\Multiply\Multiply\obj\Debug\Multiply.csprojResolveAssemblyReference.cache
+C:\Users\jprenosi\source\repos\Multiply\Multiply\obj\Debug\Multiply.csproj.CoreCompileInputs.cache
+C:\Users\jprenosi\source\repos\Multiply\Multiply\obj\Debug\Multiply.exe
+C:\Users\jprenosi\source\repos\Multiply\Multiply\obj\Debug\Multiply.pdb
